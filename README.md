@@ -25,4 +25,4 @@ ____
         [MarshalAs(UnmanagedType.LPWStr)] string title = "");
 ```
 ____
-#### Stolen from [HotKeyIt/ahkdll](https://github.com/HotKeyIt/ahkdll-v1-release)
+#### File source [HotKeyIt/ahkdll](https://github.com/HotKeyIt/ahkdll-v1-release)
